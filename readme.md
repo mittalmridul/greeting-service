@@ -1,5 +1,5 @@
 # greeting API
-An API built with Spring Boot that allows users to manage greeting. That's w'll be used in the AWS white belt video series.
+An API built with Spring Boot that allows users to manage greeting.
 
 ## Table of Contents
 - [greeting API](#greeting-api)
